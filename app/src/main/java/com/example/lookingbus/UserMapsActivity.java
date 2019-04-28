@@ -142,7 +142,7 @@ public class UserMapsActivity extends FragmentActivity implements OnMapReadyCall
       String str_dest="destination="+dest.latitude + ","+dest.longitude;
       String sensor="sensor=false";
       String mode="mode=transit";
-      String key="key=AIzaSyDCx0ez_KfJfRt87FgN3lmbrEeNvwE0iDU";
+      String key="key=";
       String param=str_org+"&"+str_dest+"&"+sensor+"&"+mode+"&"+key;
       String output="json";
       String url= "https://maps.googleapis.com/maps/api/directions/"+output+"?"+param;
