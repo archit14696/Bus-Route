@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1086431315500",
+    "firebase_url": "https://lookingbus-237719.firebaseio.com",
+    "project_id": "lookingbus-237719",
+    "storage_bucket": "lookingbus-237719.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086431315500:android:789c9460e8e951b8",
+        "android_client_info": {
+          "package_name": "com.example.lookingbus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086431315500-3jj7f1mjbm3s5itsr1r9ejuourh9c2vm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lookingbus",
+            "certificate_hash": "7905ee8e1419944aa3060122f1889e6c96eb5fc9"
+          }
+        },
+        {
+          "client_id": "1086431315500-6u54t4r09o8dpedu1jkeho2h127a0otq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApANgNt4MxbcwhHvSj2tWTVIrXKDvFL44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086431315500-6u54t4r09o8dpedu1jkeho2h127a0otq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
